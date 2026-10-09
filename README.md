@@ -54,4 +54,4 @@ Each script begins with `clear; clc; close all;`, so every file can be run on it
 
 ## Video explanation
 
-[Add your YouTube link here]
+[(https://youtu.be/gUKVgS-5acU?si=LGSkuUrMEk67pj4O)]
